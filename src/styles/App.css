@@ -1,0 +1,59 @@
+.App {
+  margin: 10px;
+}
+
+body {
+  display: flex;
+  width: 1000px;
+  margin: auto;
+}
+
+.card {
+  margin: 5px;
+}
+
+div#specs {
+  border: 1px solid #d3d3d3;
+  padding: 11px;
+}
+
+.form {
+  text-align: center;
+}
+
+#cardId {
+  background-color: white;
+  margin: 0 16px 14px;
+  border-radius: 5px;
+  padding: 14px;
+  width: 19em;
+}
+
+ul {
+  padding-left: inherit;
+}
+
+li {
+  list-style: none;
+  border-top: 1px solid #d3d3d3;
+}
+
+#pilot {
+  display: flex;
+  justify-content: center;
+  margin-top: 22px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 1px solid #d3d3d3;
+  padding-bottom: 18px;
+}
+
+h3 {
+  margin-bottom: 17px;
+}
+
+#subtitle {
+  margin-top: 15px;
+}
