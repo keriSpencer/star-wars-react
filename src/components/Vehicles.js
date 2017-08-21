@@ -57,20 +57,6 @@ class Vehicles extends Component {
       )
     })
 
-    // let autos = []
-    // this.state.swapiVehicles.forEach(function(auto) {
-    //   autos.push(
-    //     <div id="fuck">
-    //       <h2>
-    //         Vehicle: {auto.name}
-    //       </h2>
-    //       <h4>
-    //         Model: {auto.model}
-    //       </h4>
-    //     </div>
-    //   )
-    // })
-
     return (
       <div className="quake-list">
         <div className="row">
